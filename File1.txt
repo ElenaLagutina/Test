@@ -1,9 +1,6 @@
 Info to test
-<<<<<<< HEAD
 testing file two
-=======
 untesting file two
->>>>>>> 1b6801a74dab879c03741333590ee16a94046aa7
 Agane info to test
 Agane info test 2
 Add line
