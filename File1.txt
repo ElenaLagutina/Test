@@ -1,8 +1,7 @@
 Info to test
-testing file two
+testing file two update
 untesting file two
 Agane info to test
 Agane info test 2
 Add line
-commit test
-new branch line
+commit testnew branch line
